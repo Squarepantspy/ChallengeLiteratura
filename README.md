@@ -7,3 +7,4 @@ Las funcionalidades minimas requeridas son:
 - Consultar los autores vivos en un determinado año teniendo en cuenta sus atributos de año de Nacimiento y Muerte dados por la API
 - Listar libros por idiomas : dado un Idioma a traves del input listar los libros en ese idioma.
 
+obs. Utilizamos variables de entorno para ocultar datos sensibles de la base de datos y manejo de Excepciones en caso de Entradas no compatibles.
